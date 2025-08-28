@@ -78,19 +78,3 @@ Prioritize customers with high credit card activity.
 
 Deploy the XGBoost model in marketing systems to predict potential loan customers.
 
-🚀 How to Run This Project
-
-1. Clone the repository:
-
-git clone https://github.com/your-username/personal-loan-prediction.git
-cd personal-loan-prediction
-
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-
-3 Open the Jupyter Notebook:
-
-jupyter notebook "predicting the probability of personal loan.ipynb"
