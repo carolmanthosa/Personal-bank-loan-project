@@ -1,6 +1,6 @@
 #📌 Predicting the Probability of Personal Loan Acceptance 
 
-#🔎 Project Overview
+🔎 Project Overview
 
 This project applied machine learning classification techniques to predict whether a customer would accept a personal loan. The goal was to help the bank improve customer targeting in marketing campaigns, increase loan uptake, and reduce campaign costs.
 
